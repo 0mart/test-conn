@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">TestConn</string>
+    <string name="app_name">Prueba servicio HTTP</string>
+    <string name="app_url">URL:</string>
+    <string name="app_resultado">Resultado:</string>
+    <string name="app_titulo">Prueba de conexión</string>
+    <string name="app_boton_ejecutar">Iniciar</string>
 </resources>
